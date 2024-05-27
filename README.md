@@ -47,3 +47,4 @@ Harnessing the power of Azure cloud services, this project delved into the perfo
 
 ## Impact
 The project culminated in an enhanced data engineering framework that not only bolstered analytical processes but also provided crystal-clear insights into athlete performances and Olympic event trends.
+
