@@ -48,3 +48,8 @@ Harnessing the power of Azure cloud services, this project delved into the perfo
 ## Impact
 The project culminated in an enhanced data engineering framework that not only bolstered analytical processes but also provided crystal-clear insights into athlete performances and Olympic event trends.
 
+Here are the final images of the data explorations performed on my Azure account:
+<img width="1124" alt="Screenshot 2024-04-27 at 11 22 05 PM" src="https://github.com/VMware237/azureproject/assets/159841485/77724032-04a2-4bbc-91ae-dcbd7b07f288">
+<img width="1054" alt="Screenshot 2024-04-27 at 11 28 03 PM" src="https://github.com/VMware237/azureproject/assets/159841485/4f66e1c1-721d-4001-b707-5fb76d9084f1">
+
+
